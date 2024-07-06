@@ -1,0 +1,162 @@
+C:\Users\acer\Documents\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.exe.config
+C:\Users\acer\Documents\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.exe
+C:\Users\acer\Documents\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.pdb
+C:\Users\acer\Documents\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.xml
+C:\Users\acer\Documents\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbproj.AssemblyReference.cache
+C:\Users\acer\Documents\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Akun.resources
+C:\Users\acer\Documents\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Barang.resources
+C:\Users\acer\Documents\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Dashboard.resources
+C:\Users\acer\Documents\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Login.resources
+C:\Users\acer\Documents\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Resources.resources
+C:\Users\acer\Documents\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Pelanggan.resources
+C:\Users\acer\Documents\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Pembelian.resources
+C:\Users\acer\Documents\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Penjualan.resources
+C:\Users\acer\Documents\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbproj.GenerateResource.cache
+C:\Users\acer\Documents\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.exe
+C:\Users\acer\Documents\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.xml
+C:\Users\acer\Documents\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.pdb
+C:\Users\acer\Documents\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Supplier.resources
+D:\Ngoding\C#\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.exe.config
+D:\Ngoding\C#\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.exe
+D:\Ngoding\C#\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.pdb
+D:\Ngoding\C#\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.xml
+D:\Ngoding\C#\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbproj.AssemblyReference.cache
+D:\Ngoding\C#\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Akun.resources
+D:\Ngoding\C#\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Barang.resources
+D:\Ngoding\C#\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Dashboard.resources
+D:\Ngoding\C#\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Login.resources
+D:\Ngoding\C#\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Resources.resources
+D:\Ngoding\C#\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Pelanggan.resources
+D:\Ngoding\C#\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Pembelian.resources
+D:\Ngoding\C#\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Penjualan.resources
+D:\Ngoding\C#\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Supplier.resources
+D:\Ngoding\C#\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbproj.GenerateResource.cache
+D:\Ngoding\C#\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbproj.CoreCompileInputs.cache
+D:\Ngoding\C#\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.exe
+D:\Ngoding\C#\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.xml
+D:\Ngoding\C#\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.pdb
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.exe.config
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.exe
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.pdb
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.xml
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbproj.AssemblyReference.cache
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Akun.resources
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Barang.resources
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Dashboard.resources
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Login.resources
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Resources.resources
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Pelanggan.resources
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Pembelian.resources
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Penjualan.resources
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Supplier.resources
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbproj.GenerateResource.cache
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbproj.CoreCompileInputs.cache
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.exe
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.xml
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.pdb
+E:\Project Pindoo DATA\Desktop (Java)\Perancangan Penjualan Pembelian MMS\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.exe.config
+E:\Project Pindoo DATA\Desktop (Java)\Perancangan Penjualan Pembelian MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.exe
+E:\Project Pindoo DATA\Desktop (Java)\Perancangan Penjualan Pembelian MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.xml
+E:\Project Pindoo DATA\Desktop (Java)\Perancangan Penjualan Pembelian MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.pdb
+E:\Project Pindoo DATA\Desktop (Java)\Perancangan Penjualan Pembelian MMS\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.exe
+E:\Project Pindoo DATA\Desktop (Java)\Perancangan Penjualan Pembelian MMS\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.pdb
+E:\Project Pindoo DATA\Desktop (Java)\Perancangan Penjualan Pembelian MMS\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.xml
+E:\Project Pindoo DATA\Desktop (Java)\Perancangan Penjualan Pembelian MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbprojResolveAssemblyReference.cache
+E:\Project Pindoo DATA\Desktop (Java)\Perancangan Penjualan Pembelian MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Akun.resources
+E:\Project Pindoo DATA\Desktop (Java)\Perancangan Penjualan Pembelian MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Barang.resources
+E:\Project Pindoo DATA\Desktop (Java)\Perancangan Penjualan Pembelian MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Dashboard.resources
+E:\Project Pindoo DATA\Desktop (Java)\Perancangan Penjualan Pembelian MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Login.resources
+E:\Project Pindoo DATA\Desktop (Java)\Perancangan Penjualan Pembelian MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Resources.resources
+E:\Project Pindoo DATA\Desktop (Java)\Perancangan Penjualan Pembelian MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Pelanggan.resources
+E:\Project Pindoo DATA\Desktop (Java)\Perancangan Penjualan Pembelian MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Pembelian.resources
+E:\Project Pindoo DATA\Desktop (Java)\Perancangan Penjualan Pembelian MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Penjualan.resources
+E:\Project Pindoo DATA\Desktop (Java)\Perancangan Penjualan Pembelian MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Supplier.resources
+E:\Project Pindoo DATA\Desktop (Java)\Perancangan Penjualan Pembelian MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbproj.GenerateResource.Cache
+E:\Project Pindoo DATA\Desktop (Java)\Perancangan Penjualan Pembelian MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.LaporanPembelian.resources
+E:\Project Pindoo DATA\Desktop (Java)\Perancangan Penjualan Pembelian MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.LaporanPenjualan.resources
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.exe.config
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.exe
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.pdb
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.xml
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbproj.AssemblyReference.cache
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Akun.resources
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Barang.resources
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Dashboard.resources
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.LaporanPembelian.resources
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.LaporanPenjualan.resources
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Login.resources
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Resources.resources
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Pelanggan.resources
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Pembelian.resources
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Penjualan.resources
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Supplier.resources
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbproj.GenerateResource.cache
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbproj.CoreCompileInputs.cache
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.exe
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.xml
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.pdb
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\bin\Debug\BouncyCastle.Crypto.dll
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\bin\Debug\itextsharp.dll
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\bin\Debug\itextsharp.xml
+E:\Jokian\vb\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbproj.CopyComplete
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\bin\Debug\BouncyCastle.Crypto.dll
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\bin\Debug\itextsharp.dll
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\bin\Debug\itextsharp.xml
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.LaporanPembelian.resources
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.LaporanPenjualan.resources
+D:\Laporan Akhir - Shinta\Acces VS MMS\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancan.BD6B4108.Up2Date
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.exe.config
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.exe
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.pdb
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.xml
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\bin\Debug\itextsharp.dll
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\bin\Debug\itextsharp.xml
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbproj.AssemblyReference.cache
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Akun.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Barang.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Dashboard.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.LaporanPembelian.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.LaporanPenjualan.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Login.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Resources.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Pelanggan.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Pembelian.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Penjualan.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Supplier.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbproj.GenerateResource.cache
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancan.BD6B4108.Up2Date
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.exe
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.xml
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.pdb
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.EditBarang.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.LaporanSelisih.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.exe.config
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.exe
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.pdb
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\bin\Debug\Perancangan Penjualan Pembelian MMS.xml
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\bin\Debug\itextsharp.dll
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\bin\Debug\itextsharp.xml
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbproj.AssemblyReference.cache
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Akun.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Barang.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Dashboard.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.EditBarang.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.LaporanPembelian.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.LaporanPenjualan.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.LaporanSelisih.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Login.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Resources.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Pelanggan.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Pembelian.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Penjualan.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan_Penjualan_Pembelian_MMS.Supplier.resources
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbproj.GenerateResource.cache
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancan.BD6B4108.Up2Date
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.exe
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.xml
+C:\Users\USER\Documents\Gawe\Visual Studio\FIX\Perancangan Penjualan Pembelian MMS\obj\Debug\Perancangan Penjualan Pembelian MMS.pdb
